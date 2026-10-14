@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Alegreya Sans ExtraBold,82,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,1,0,1,7,2,2,80,80,430,1
+Style: Hook,Alegreya ExtraBold,118,&H006BC9F3,&H00FFFFFF,&H00142030,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,250,1
+Style: End,Alegreya ExtraBold,124,&H006BC9F3,&H00FFFFFF,&H00142030,&H90000000,0,0,0,0,100,100,0,0,1,8,3,5,60,60,0,1
+Style: Brand,Alegreya Sans ExtraBold,52,&H00EAF8FF,&H00FFFFFF,&H00142030,&H90000000,0,0,0,0,100,100,2,0,1,4,0,2,60,60,300,1
+Style: Small,Alegreya Sans ExtraBold,40,&H00EAF8FF,&H00FFFFFF,&H00142030,&H90000000,0,0,0,0,100,100,2,0,1,4,0,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:02.04,Sub,,0,0,0,,HOY NO PUDISTE CON
+Dialogue: 0,0:00:02.07,0:00:02.83,Sub,,0,0,0,,TODO...
+Dialogue: 0,0:00:02.86,0:00:04.97,Sub,,0,0,0,,Y YA TE ESTÁS REGAÑANDO.
+Dialogue: 0,0:00:05.00,0:00:06.87,Sub,,0,0,0,,ESCÚCHAME UN MOMENTO.
+Dialogue: 0,0:00:07.30,0:00:08.90,Sub,,0,0,0,,NO ERES FLOJA.
+Dialogue: 0,0:00:08.93,0:00:10.53,Sub,,0,0,0,,ESTÁS CANSADA.
+Dialogue: 0,0:00:10.56,0:00:12.82,Sub,,0,0,0,,LLEVAS MESES CARGANDO
+Dialogue: 0,0:00:12.85,0:00:14.93,Sub,,0,0,0,,LO TUYO Y LO DE LOS
+Dialogue: 0,0:00:14.96,0:00:15.79,Sub,,0,0,0,,DEMÁS,
+Dialogue: 0,0:00:15.82,0:00:17.80,Sub,,0,0,0,,SONRIENDO PARA QUE
+Dialogue: 0,0:00:17.83,0:00:19.81,Sub,,0,0,0,,NADIE SE PREOCUPE.
+Dialogue: 0,0:00:20.24,0:00:22.59,Sub,,0,0,0,,TU CUERPO NO TE ESTÁ
+Dialogue: 0,0:00:22.62,0:00:24.25,Sub,,0,0,0,,TRAICIONANDO.
+Dialogue: 0,0:00:24.28,0:00:26.22,Sub,,0,0,0,,TE ESTÁ PIDIENDO
+Dialogue: 0,0:00:26.25,0:00:27.57,Sub,,0,0,0,,UNA PAUSA.
+Dialogue: 0,0:00:27.60,0:00:30.47,Sub,,0,0,0,,DESCANSAR NO ES RENDIRTE.
+Dialogue: 0,0:00:30.50,0:00:32.55,Sub,,0,0,0,,ES ECHARLE AGUA A
+Dialogue: 0,0:00:32.58,0:00:33.69,Sub,,0,0,0,,LA RAÍZ,
+Dialogue: 0,0:00:33.72,0:00:35.87,Sub,,0,0,0,,PARA QUE MAÑANA EL
+Dialogue: 0,0:00:35.90,0:00:38.04,Sub,,0,0,0,,ÁRBOL SIGA DE PIE.
+Dialogue: 0,0:00:38.47,0:00:40.24,Sub,,0,0,0,,HOY HAZ UNA SOLA
+Dialogue: 0,0:00:40.27,0:00:41.66,Sub,,0,0,0,,COSA POR TI:
+Dialogue: 0,0:00:41.69,0:00:43.74,Sub,,0,0,0,,COME ALGO CALIENTE,
+Dialogue: 0,0:00:43.77,0:00:45.82,Sub,,0,0,0,,ACUÉSTATE TEMPRANO,
+Dialogue: 0,0:00:45.85,0:00:47.71,Sub,,0,0,0,,APAGA EL TELÉFONO
+Dialogue: 0,0:00:47.74,0:00:48.75,Sub,,0,0,0,,UN RATO.
+Dialogue: 0,0:00:49.18,0:00:51.03,Sub,,0,0,0,,LO QUE NO TERMINASTE
+Dialogue: 0,0:00:51.06,0:00:51.60,Sub,,0,0,0,,HOY,
+Dialogue: 0,0:00:51.63,0:00:53.23,Sub,,0,0,0,,MAÑANA SIGUE AHÍ.
+Dialogue: 0,0:00:53.26,0:00:54.30,Sub,,0,0,0,,PERO TÚ...
+Dialogue: 0,0:00:54.33,0:00:56.09,Sub,,0,0,0,,TÚ NO PUEDES SEGUIR
+Dialogue: 0,0:00:56.12,0:00:56.91,Sub,,0,0,0,,SIN TI.
+Dialogue: 0,0:00:57.34,0:00:58.53,Sub,,0,0,0,,MÍRAME BIEN.
+Dialogue: 0,0:00:58.56,0:01:00.47,Sub,,0,0,0,,NO TIENES QUE GANARTE
+Dialogue: 0,0:01:00.50,0:01:01.69,Sub,,0,0,0,,EL DESCANSO.
+Dialogue: 0,0:01:01.72,0:01:03.07,Sub,,0,0,0,,YA LO MERECES.
+Dialogue: 1,0:00:00.00,0:00:03.80,Hook,,0,0,0,,{\fad(150,300)}NO ERES FLOJA…\NESTÁS CANSADA
+Dialogue: 1,0:01:03.90,0:01:07.50,End,,0,0,0,,{\fad(300,0)}NO TIENES QUE\NGANARTE\NEL DESCANSO
+Dialogue: 1,0:01:04.40,0:01:07.50,Brand,,0,0,0,,{\fad(300,0)}Maestro Mi Güero · Cuentos de Lisi
+Dialogue: 0,0:00:00.00,0:01:03.90,Small,,0,0,0,,Cuentos de Lisi
